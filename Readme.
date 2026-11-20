@@ -1,0 +1,39 @@
+# Bike Sharing Demand Analysis
+
+## Project Overview
+This project focuses on analyzing bike-sharing rental demand using Microsoft Excel. It explores rental patterns and the factors that may influence bike usage.
+
+## Project Objectives
+- Analyze hourly bike rental trends.
+- Understand weekday and holiday rental patterns.
+- Compare casual and registered users.
+- Study the impact of weather conditions.
+- Explore the relationship between temperature, humidity and bike rentals.
+- Create an interactive Excel dashboard.
+
+## Tools & Technologies
+- Microsoft Excel 2024
+- Pivot Tables
+- Charts and Data Visualization
+- Slicers
+- Data Cleaning and Analysis
+
+## Data Analysis
+The project includes the following analyses:
+1. Hourly Bike Rental Trend
+2. Bike Rentals by Weekday
+3. Holiday vs Non-Holiday Analysis
+4. Casual vs Registered Users
+5. Impact of Weather
+6. Impact of Temperature
+7. Impact of Humidity
+
+## Project Files
+- Excel Workbook – Data analysis and interactive dashboard.
+- PowerPoint Presentation – Project overview and analysis.
+
+## Conclusion
+This project demonstrates the use of Microsoft Excel for data cleaning, analysis and visualization to understand bike-sharing demand patterns.
+
+## Author
+Created as a Data Analytics Portfolio Project.
